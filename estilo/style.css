@@ -75,7 +75,7 @@ div.campo > i {
 div.campo > input {
     background-color: #94cfcd;
     width: calc(100% - 47px);
-    height: 36px;
+    height: 38px;
     font-size: 1em;
     border: none;
     border-radius: 5px;
